@@ -1,0 +1,933 @@
+[  1:12:53 ]  Initialize registry file.
+[  1:12:53 ]  Load registry file...
+[  1:12:53 ]  Set process priority.
+[  1:12:53 ]  Begin kernel.
+[  1:12:53 ]  Set english language pack, Font name [Arial]
+[  1:12:53 ]  Code page : 1252, Local : 1
+[  1:12:53 ]  Build sqrt LUT
+[  1:12:53 ]  Load text resource
+[  1:12:53 ]  Parse script : language list
+[  1:12:53 ]  Language : English
+[  1:12:53 ]  Set sub language : 0:English
+[  1:12:59 ]  Initilize _X3DShell.
+[  1:12:59 ]  ========================================================================
+[  1:12:59 ]  OS System : Windows Vista/9200[6:2]/
+[  1:12:59 ]  Process start time : 01:12:59 / Monday, day 09 of November in the year 2026.
+[  1:12:59 ]  ========================================================================
+[  1:12:59 ]  Start game timer.
+[  1:12:59 ]  _XShell [version 0.1.0] Started!
+[  1:12:59 ]  _XTimerCounter initialized
+[  1:12:59 ]  Create the Direct3D object.
+[  1:12:59 ]  Created xwindow.
+[  1:12:59 ]  Choose d3d settings.
+[  1:12:59 ]  Initialize xapp timer.
+[  1:12:59 ]  Initialize 3D environment.
+[  1:13: 0 ]  Initialize device object
+[  1:13: 0 ]  Initialize cursor...
+[  1:13: 0 ]  Check hardware cursor...
+[  1:13: 0 ]  Set device cursor.
+[  1:13: 0 ]  InitDeviceObject : shader version [ VS : 3.0 / PS : 3.0 ]
+[  1:13: 0 ]  InitDeviceObject : [ HCR ] Use vertex shader animation
+[  1:13: 0 ]  RestoreDeviceObjects : shader version [ VS : 3.0 / PS : 3.0 ]
+[  1:13: 0 ]  RestoreDeviceObjects : [ HCR ] Use vertex shader animation
+[  1:13: 0 ]  XApp initialized.
+[  1:13: 0 ]  ========================================================================
+[  1:13: 0 ]  3D Device informations
+[  1:13: 0 ]  ========================================================================
+[  1:13: 0 ]  Driver    : 	HAL (hw vp): Intel(R) UHD Graphics
+[  1:13: 0 ]  Screen mode   : 	Windowed
+[  1:13: 0 ]  --D3DCAPS --------------------------------------------------------------
+[  1:13: 0 ]    D3DCAPS_READ_SCANLINE
+[  1:13: 0 ]  --D3DCAPS2--------------------------------------------------------------
+[  1:13: 0 ]    D3DCAPS2_CANAUTOGENMIPMAP
+[  1:13: 0 ]    D3DCAPS2_DYNAMICTEXTURES
+[  1:13: 0 ]  --D3DPRESENT------------------------------------------------------------
+[  1:13: 0 ]    D3DPRESENT_INTERVAL_IMMEDIATE
+[  1:13: 0 ]    D3DPRESENT_INTERVAL_ONE
+[  1:13: 0 ]    D3DPRESENT_INTERVAL_TWO
+[  1:13: 0 ]    D3DPRESENT_INTERVAL_THREE
+[  1:13: 0 ]    D3DPRESENT_INTERVAL_FOUR
+[  1:13: 0 ]  --D3DCURSORCAPS---------------------------------------------------------
+[  1:13: 0 ]    D3DCURSORCAPS_COLOR
+[  1:13: 0 ]  --D3DDEVCAPS------------------------------------------------------------
+[  1:13: 0 ]    D3DDEVCAPS_CANRENDERAFTERFLIP
+[  1:13: 0 ]    D3DDEVCAPS_DRAWPRIMTLVERTEX
+[  1:13: 0 ]    D3DDEVCAPS_EXECUTESYSTEMMEMORY
+[  1:13: 0 ]    D3DDEVCAPS_HWRASTERIZATION
+[  1:13: 0 ]    D3DDEVCAPS_HWTRANSFORMANDLIGHT
+[  1:13: 0 ]    D3DDEVCAPS_PUREDEVICE
+[  1:13: 0 ]    D3DDEVCAPS_TEXTUREVIDEOMEMORY
+[  1:13: 0 ]    D3DDEVCAPS_TLVERTEXSYSTEMMEMORY
+[  1:13: 0 ]  --D3DPRASTERCAPS--------------------------------------------------------
+[  1:13: 0 ]    D3DPRASTERCAPS_ANISOTROPY
+[  1:13: 0 ]    D3DPRASTERCAPS_COLORPERSPECTIVE
+[  1:13: 0 ]    D3DPRASTERCAPS_DITHER
+[  1:13: 0 ]    D3DPRASTERCAPS_DEPTHBIAS
+[  1:13: 0 ]    D3DPRASTERCAPS_FOGRANGE
+[  1:13: 0 ]    D3DPRASTERCAPS_FOGTABLE
+[  1:13: 0 ]    D3DPRASTERCAPS_FOGVERTEX
+[  1:13: 0 ]    D3DPRASTERCAPS_MIPMAPLODBIAS
+[  1:13: 0 ]    D3DPRASTERCAPS_MULTISAMPLE_TOGGLE
+[  1:13: 0 ]    D3DPRASTERCAPS_SCISSORTEST
+[  1:13: 0 ]    D3DPRASTERCAPS_SLOPESCALEDEPTHBIAS
+[  1:13: 0 ]    D3DPRASTERCAPS_WFOG
+[  1:13: 0 ]    D3DPRASTERCAPS_ZFOG
+[  1:13: 0 ]    D3DPRASTERCAPS_ZTEST
+[  1:13: 0 ]  --D3DPCMPCAPS-[z compare]-----------------------------------------------
+[  1:13: 0 ]    D3DPCMPCAPS_ALWAYS
+[  1:13: 0 ]    D3DPCMPCAPS_EQUAL
+[  1:13: 0 ]    D3DPCMPCAPS_GREATER
+[  1:13: 0 ]    D3DPCMPCAPS_GREATEREQUAL
+[  1:13: 0 ]    D3DPCMPCAPS_LESS
+[  1:13: 0 ]    D3DPCMPCAPS_LESSEQUAL
+[  1:13: 0 ]    D3DPCMPCAPS_NEVER
+[  1:13: 0 ]    D3DPCMPCAPS_NOTEQUAL
+[  1:13: 0 ]  --D3DPCMPCAPS-[alpha compare]-------------------------------------------
+[  1:13: 0 ]    D3DPCMPCAPS_ALWAYS
+[  1:13: 0 ]    D3DPCMPCAPS_EQUAL
+[  1:13: 0 ]    D3DPCMPCAPS_GREATER
+[  1:13: 0 ]    D3DPCMPCAPS_GREATEREQUAL
+[  1:13: 0 ]    D3DPCMPCAPS_LESS
+[  1:13: 0 ]    D3DPCMPCAPS_LESSEQUAL
+[  1:13: 0 ]    D3DPCMPCAPS_NEVER
+[  1:13: 0 ]    D3DPCMPCAPS_NOTEQUAL
+[  1:13: 0 ]  --D3DPBLENDCAPS-[blend compare]-----------------------------------------
+[  1:13: 0 ]    D3DPBLENDCAPS_BOTHINVSRCALPHA
+[  1:13: 0 ]    D3DPBLENDCAPS_BOTHSRCALPHA
+[  1:13: 0 ]    D3DPBLENDCAPS_DESTALPHA
+[  1:13: 0 ]    D3DPBLENDCAPS_DESTCOLOR
+[  1:13: 0 ]    D3DPBLENDCAPS_INVDESTALPHA
+[  1:13: 0 ]    D3DPBLENDCAPS_INVDESTCOLOR
+[  1:13: 0 ]    D3DPBLENDCAPS_INVSRCALPHA
+[  1:13: 0 ]    D3DPBLENDCAPS_INVSRCCOLOR
+[  1:13: 0 ]    D3DPBLENDCAPS_ONE
+[  1:13: 0 ]    D3DPBLENDCAPS_SRCALPHA
+[  1:13: 0 ]    D3DPBLENDCAPS_SRCALPHASAT
+[  1:13: 0 ]    D3DPBLENDCAPS_SRCCOLOR
+[  1:13: 0 ]    D3DPBLENDCAPS_ZERO
+[  1:13: 0 ]  --D3DPMISCCAPS---[primitive misc]---------------------------------------
+[  1:13: 0 ]    D3DPMISCCAPS_MASKZ
+[  1:13: 0 ]    D3DPMISCCAPS_CULLNONE
+[  1:13: 0 ]    D3DPMISCCAPS_CULLCW
+[  1:13: 0 ]    D3DPMISCCAPS_CULLCCW
+[  1:13: 0 ]    D3DPMISCCAPS_COLORWRITEENABLE
+[  1:13: 0 ]    D3DPMISCCAPS_TSSARGTEMP
+[  1:13: 0 ]    D3DPMISCCAPS_BLENDOP
+[  1:13: 0 ]    D3DPMISCCAPS_INDEPENDENTWRITEMASKS
+[  1:13: 0 ]    D3DPMISCCAPS_PERSTAGECONSTANT
+[  1:13: 0 ]    D3DPMISCCAPS_FOGANDSPECULARALPHA
+[  1:13: 0 ]    D3DPMISCCAPS_SEPARATEALPHABLEND
+[  1:13: 0 ]    D3DPMISCCAPS_MRTINDEPENDENTBITDEPTHS
+[  1:13: 0 ]    D3DPMISCCAPS_MRTPOSTPIXELSHADERBLENDING
+[  1:13: 0 ]  --D3DPBLENDCAPS-[dest blend]--------------------------------------------
+[  1:13: 0 ]    D3DPBLENDCAPS_DESTALPHA
+[  1:13: 0 ]    D3DPBLENDCAPS_DESTCOLOR
+[  1:13: 0 ]    D3DPBLENDCAPS_INVDESTALPHA
+[  1:13: 0 ]    D3DPBLENDCAPS_INVDESTCOLOR
+[  1:13: 0 ]    D3DPBLENDCAPS_INVSRCALPHA
+[  1:13: 0 ]    D3DPBLENDCAPS_INVSRCCOLOR
+[  1:13: 0 ]    D3DPBLENDCAPS_ONE
+[  1:13: 0 ]    D3DPBLENDCAPS_SRCALPHA
+[  1:13: 0 ]    D3DPBLENDCAPS_SRCALPHASAT
+[  1:13: 0 ]    D3DPBLENDCAPS_SRCCOLOR
+[  1:13: 0 ]    D3DPBLENDCAPS_ZERO
+[  1:13: 0 ]  --D3DPTFILTERCAPS-------------------------------------------------------
+[  1:13: 0 ]    D3DPTFILTERCAPS_MAGFPOINT
+[  1:13: 0 ]    D3DPTFILTERCAPS_MAGFLINEAR
+[  1:13: 0 ]    D3DPTFILTERCAPS_MAGFANISOTROPIC
+[  1:13: 0 ]    D3DPTFILTERCAPS_MINFPOINT
+[  1:13: 0 ]    D3DPTFILTERCAPS_MINFLINEAR
+[  1:13: 0 ]    D3DPTFILTERCAPS_MINFANISOTROPIC
+[  1:13: 0 ]    D3DPTFILTERCAPS_MIPFPOINT
+[  1:13: 0 ]    D3DPTFILTERCAPS_MIPFLINEAR
+[  1:13: 0 ]  --D3DPTFILTERCAPS-[cube texture]----------------------------------------
+[  1:13: 0 ]    D3DPTFILTERCAPS_MAGFPOINT
+[  1:13: 0 ]    D3DPTFILTERCAPS_MAGFLINEAR
+[  1:13: 0 ]    D3DPTFILTERCAPS_MAGFANISOTROPIC
+[  1:13: 0 ]    D3DPTFILTERCAPS_MINFPOINT
+[  1:13: 0 ]    D3DPTFILTERCAPS_MINFLINEAR
+[  1:13: 0 ]    D3DPTFILTERCAPS_MINFANISOTROPIC
+[  1:13: 0 ]    D3DPTFILTERCAPS_MIPFPOINT
+[  1:13: 0 ]    D3DPTFILTERCAPS_MIPFLINEAR
+[  1:13: 0 ]  --D3DPTFILTERCAPS-[volume texture]--------------------------------------
+[  1:13: 0 ]    D3DPTFILTERCAPS_MAGFPOINT
+[  1:13: 0 ]    D3DPTFILTERCAPS_MAGFLINEAR
+[  1:13: 0 ]    D3DPTFILTERCAPS_MAGFANISOTROPIC
+[  1:13: 0 ]    D3DPTFILTERCAPS_MINFPOINT
+[  1:13: 0 ]    D3DPTFILTERCAPS_MINFLINEAR
+[  1:13: 0 ]    D3DPTFILTERCAPS_MINFANISOTROPIC
+[  1:13: 0 ]    D3DPTFILTERCAPS_MIPFPOINT
+[  1:13: 0 ]    D3DPTFILTERCAPS_MIPFLINEAR
+[  1:13: 0 ]  --D3DPTADDRESSCAPS-[texture]--------------------------------------------
+[  1:13: 0 ]    D3DPTADDRESSCAPS_BORDER
+[  1:13: 0 ]    D3DPTADDRESSCAPS_CLAMP
+[  1:13: 0 ]    D3DPTADDRESSCAPS_INDEPENDENTUV
+[  1:13: 0 ]    D3DPTADDRESSCAPS_MIRROR
+[  1:13: 0 ]    D3DPTADDRESSCAPS_MIRRORONCE
+[  1:13: 0 ]    D3DPTADDRESSCAPS_WRAP
+[  1:13: 0 ]  --D3DPTADDRESSCAPS-[volume texture]-------------------------------------
+[  1:13: 0 ]    D3DPTADDRESSCAPS_BORDER
+[  1:13: 0 ]    D3DPTADDRESSCAPS_CLAMP
+[  1:13: 0 ]    D3DPTADDRESSCAPS_INDEPENDENTUV
+[  1:13: 0 ]    D3DPTADDRESSCAPS_MIRROR
+[  1:13: 0 ]    D3DPTADDRESSCAPS_MIRRORONCE
+[  1:13: 0 ]    D3DPTADDRESSCAPS_WRAP
+[  1:13: 0 ]  --D3DLINECAPS-----------------------------------------------------------
+[  1:13: 0 ]    D3DLINECAPS_ALPHACMP
+[  1:13: 0 ]    D3DLINECAPS_BLEND
+[  1:13: 0 ]    D3DLINECAPS_FOG
+[  1:13: 0 ]    D3DLINECAPS_TEXTURE
+[  1:13: 0 ]    D3DLINECAPS_ZTEST
+[  1:13: 0 ]  --D3DSTENCILCAPS--------------------------------------------------------
+[  1:13: 0 ]    D3DSTENCILCAPS_DECR
+[  1:13: 0 ]    D3DSTENCILCAPS_DECRSAT
+[  1:13: 0 ]    D3DSTENCILCAPS_INCR
+[  1:13: 0 ]    D3DSTENCILCAPS_INCRSAT
+[  1:13: 0 ]    D3DSTENCILCAPS_INVERT
+[  1:13: 0 ]    D3DSTENCILCAPS_KEEP
+[  1:13: 0 ]    D3DSTENCILCAPS_REPLACE
+[  1:13: 0 ]    D3DSTENCILCAPS_ZERO
+[  1:13: 0 ]  --D3DPTEXTURECAPS-------------------------------------------------------
+[  1:13: 0 ]    D3DPTEXTURECAPS_ALPHA
+[  1:13: 0 ]    D3DPTEXTURECAPS_CUBEMAP
+[  1:13: 0 ]    D3DPTEXTURECAPS_MIPCUBEMAP
+[  1:13: 0 ]    D3DPTEXTURECAPS_MIPMAP
+[  1:13: 0 ]    D3DPTEXTURECAPS_MIPVOLUMEMAP
+[  1:13: 0 ]    D3DPTEXTURECAPS_PERSPECTIVE
+[  1:13: 0 ]    D3DPTEXTURECAPS_PROJECTED
+[  1:13: 0 ]    D3DPTEXTURECAPS_TEXREPEATNOTSCALEDBYSIZE
+[  1:13: 0 ]    D3DPTEXTURECAPS_VOLUMEMAP
+[  1:13: 0 ]  --D3DTEXOPCAPS----------------------------------------------------------
+[  1:13: 0 ]    D3DTEXOPCAPS_ADD
+[  1:13: 0 ]    D3DTEXOPCAPS_ADDSIGNED
+[  1:13: 0 ]    D3DTEXOPCAPS_ADDSIGNED2X
+[  1:13: 0 ]    D3DTEXOPCAPS_ADDSMOOTH
+[  1:13: 0 ]    D3DTEXOPCAPS_BLENDCURRENTALPHA
+[  1:13: 0 ]    D3DTEXOPCAPS_BLENDDIFFUSEALPHA
+[  1:13: 0 ]    D3DTEXOPCAPS_BLENDFACTORALPHA
+[  1:13: 0 ]    D3DTEXOPCAPS_BLENDTEXTUREALPHA
+[  1:13: 0 ]    D3DTEXOPCAPS_BLENDTEXTUREALPHAPM
+[  1:13: 0 ]    D3DTEXOPCAPS_BUMPENVMAP
+[  1:13: 0 ]    D3DTEXOPCAPS_BUMPENVMAPLUMINANCE
+[  1:13: 0 ]    D3DTEXOPCAPS_DISABLE
+[  1:13: 0 ]    D3DTEXOPCAPS_DOTPRODUCT3
+[  1:13: 0 ]    D3DTEXOPCAPS_LERP
+[  1:13: 0 ]    D3DTEXOPCAPS_MODULATE
+[  1:13: 0 ]    D3DTEXOPCAPS_MODULATE2X
+[  1:13: 0 ]    D3DTEXOPCAPS_MODULATE4X
+[  1:13: 0 ]    D3DTEXOPCAPS_MODULATEALPHA_ADDCOLOR
+[  1:13: 0 ]    D3DTEXOPCAPS_MODULATECOLOR_ADDALPHA
+[  1:13: 0 ]    D3DTEXOPCAPS_MODULATEINVALPHA_ADDCOLOR
+[  1:13: 0 ]    D3DTEXOPCAPS_MODULATEINVCOLOR_ADDALPHA
+[  1:13: 0 ]    D3DTEXOPCAPS_MULTIPLYADD
+[  1:13: 0 ]    D3DTEXOPCAPS_PREMODULATE
+[  1:13: 0 ]    D3DTEXOPCAPS_SELECTARG1
+[  1:13: 0 ]    D3DTEXOPCAPS_SELECTARG2
+[  1:13: 0 ]    D3DTEXOPCAPS_SUBTRACT
+[  1:13: 0 ]  --D3DPSHADECAPS---------------------------------------------------------
+[  1:13: 0 ]    D3DPSHADECAPS_ALPHAGOURAUDBLEND
+[  1:13: 0 ]    D3DPSHADECAPS_COLORGOURAUDRGB
+[  1:13: 0 ]    D3DPSHADECAPS_FOGGOURAUD
+[  1:13: 0 ]    D3DPSHADECAPS_SPECULARGOURAUDRGB
+[  1:13: 0 ]  --D3DFVFCAPS------------------------------------------------------------
+[  1:13: 0 ]    D3DFVFCAPS_DONOTSTRIPELEMENTS
+[  1:13: 0 ]    D3DFVFCAPS_PSIZE
+[  1:13: 0 ]    D3DFVFCAPS_TEXCOORDCOUNTMASK
+[  1:13: 0 ]  --D3DVTXPCAPS-----------------------------------------------------------
+[  1:13: 0 ]    D3DVTXPCAPS_DIRECTIONALLIGHTS
+[  1:13: 0 ]    D3DVTXPCAPS_LOCALVIEWER
+[  1:13: 0 ]    D3DVTXPCAPS_MATERIALSOURCE7
+[  1:13: 0 ]    D3DVTXPCAPS_POSITIONALLIGHTS
+[  1:13: 0 ]    D3DVTXPCAPS_TEXGEN
+[  1:13: 0 ]    D3DVTXPCAPS_TEXGEN_SPHEREMAP
+[  1:13: 0 ]    D3DVTXPCAPS_TWEENING
+[  1:13: 0 ]  D3DDEVICE_CREATION_PARAMETERS:
+[  1:13: 0 ]  		D3DCREATE_HARDWARE_VERTEXPROCESSING
+[  1:13: 0 ]  		D3DCREATE_MULTITHREADED
+[  1:13: 0 ]  ------------------------------------------------------------------------
+[  1:13: 0 ]  MaxPrimitiveCount[8388607]
+[  1:13: 0 ]  MaxVertexIndex[16777215]
+[  1:13: 0 ]  MaxStreams[16]
+[  1:13: 0 ]  MaxStreamStride[255]
+[  1:13: 0 ]  MaxPointSize[256.00000]
+[  1:13: 0 ]  MaxTextureWidth[8192]
+[  1:13: 0 ]  MaxTextureHeight[8192]
+[  1:13: 0 ]  MaxTextureRepeat[8192]
+[  1:13: 0 ]  MaxTextureAspectRatio[8192]
+[  1:13: 0 ]  MaxTextureBlendStages[8]
+[  1:13: 0 ]  MaxSimultaneousTextures[8]
+[  1:13: 0 ]  MaxVolumeExtent[2048]
+[  1:13: 0 ]  MaxAnisotropy[16]
+[  1:13: 0 ]  MaxUserClipPlanes[6]
+[  1:13: 0 ]  GuardBandLeft[-32768.00000]
+[  1:13: 0 ]  GuardBandTop[-32768.00000]
+[  1:13: 0 ]  GuardBandRight[32768.00000]
+[  1:13: 0 ]  GuardBandBottom[32768.00000]
+[  1:13: 0 ]  ExtentsAdjust[0.00000]
+[  1:13: 0 ]  MaxVertexBlendMatrices[4]
+[  1:13: 0 ]  MaxVertexBlendMatrixIndex[8]
+[  1:13: 0 ]  MaxVertexW[10000000000.00000]
+[  1:13: 0 ]  MaxActiveLights[10]
+[  1:13: 0 ]  Vertex shader version [3.0]
+[  1:13: 0 ]  MaxVertexShaderConst[256]
+[  1:13: 0 ]  Pixel shader version [3.0]
+[  1:13: 0 ]  PixelShader1xMaxValue[-536870912]
+[  1:13: 0 ]  ==End of device caps log================================================
+[  1:13: 0 ]  ========================================================================
+[  1:13: 0 ]  FMOD : Initialize FMOD Sound system
+[  1:13: 0 ]  ========================================================================
+[  1:13: 0 ]  FMOD : Use FMOD Sound system [3.74]
+[  1:13: 0 ]  FMOD : Using [Direct Sound] output method
+[  1:13: 0 ]  FMOD : Sound driver list
+[  1:13: 0 ]  	1 - Primary Sound Driver
+[  1:13: 0 ]  	2 - Speakers (Realtek(R) Audio)
+[  1:13: 0 ]  FMOD : Use Driver capabilities [Primary Sound Driver]
+[  1:13: 0 ]  	This driver will support software mode only.
+[  1:13: 0 ]  	It does not properly support 3D sound hardware.
+[  1:13: 0 ]  FMOD : Setting mixer
+[  1:13: 0 ]  FMOD : Set buffer size [Sound:1000][Stream:1000]
+[  1:13: 0 ]  FMOD : Hardware channel report
+[  1:13: 0 ]  		  2D channels : 32
+[  1:13: 0 ]  		  3D channels : 32
+[  1:13: 0 ]  ========================================================================
+[  1:13: 0 ]  Load sound object
+[  1:13: 2 ]  ========================================================================
+[  1:13: 2 ]  shader version [ VS : 3.0 / PS : 3.0 ]
+[  1:13: 2 ]  [ HCR ] Use vertex shader animation
+[  1:13: 2 ]  ========================================================================
+[  1:13: 2 ]  ========================================================================
+[  1:13: 2 ]  Change process : Nine dragons title
+[  1:13: 2 ]  ========================================================================
+[  1:13: 5 ]  ========================================================================
+[  1:13: 5 ]  Change process : First loading
+[  1:13: 5 ]  ========================================================================
+[  1:13:20 ]  Window creating : wnd id : 10033
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10033
+[  1:13:20 ]  Window creating : wnd id : 386371584
+[  1:13:20 ]  Created window : cmd id : 1250 / wnd id :386371584
+[  1:13:20 ]  Window creating : wnd id : 10035
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10035
+[  1:13:20 ]  Window creating : wnd id : 10040
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10040
+[  1:13:20 ]  Window creating : wnd id : 10041
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10041
+[  1:13:20 ]  Window creating : wnd id : 10208
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10208
+[  1:13:20 ]  Window creating : wnd id : 10004
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10004
+[  1:13:20 ]  Window creating : wnd id : 10005
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10005
+[  1:13:20 ]  Window creating : wnd id : 10002
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10002
+[  1:13:20 ]  Window creating : wnd id : 10003
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10003
+[  1:13:20 ]  Window creating : wnd id : 2
+[  1:13:20 ]  Created window : cmd id : 769 / wnd id :2
+[  1:13:20 ]  Window creating : wnd id : 10293
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10293
+[  1:13:20 ]  Window creating : wnd id : 10076
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10076
+[  1:13:20 ]  Window creating : wnd id : 10058
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10058
+[  1:13:20 ]  Window creating : wnd id : 378462272
+[  1:13:20 ]  Created window : cmd id : 3700 / wnd id :378462272
+[  1:13:20 ]  Window creating : wnd id : 10292
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10292
+[  1:13:20 ]  Window creating : wnd id : 10244
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10244
+[  1:13:20 ]  Window creating : wnd id : 10245
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10245
+[  1:13:20 ]  Window creating : wnd id : 378462272
+[  1:13:20 ]  Created window : cmd id : 6651 / wnd id :378462272
+[  1:13:20 ]  Window creating : wnd id : 10248
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10248
+[  1:13:20 ]  Window creating : wnd id : 10074
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10074
+[  1:13:20 ]  Window creating : wnd id : 10001
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10001
+[  1:13:20 ]  Window creating : wnd id : 378462272
+[  1:13:20 ]  Created window : cmd id : 716 / wnd id :378462272
+[  1:13:20 ]  Window creating : wnd id : 10230
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10230
+[  1:13:20 ]  Window creating : wnd id : 10318
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10318
+[  1:13:20 ]  Window creating : wnd id : 10006
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10006
+[  1:13:20 ]  Window creating : wnd id : 378462272
+[  1:13:20 ]  Created window : cmd id : 788 / wnd id :378462272
+[  1:13:20 ]  Window creating : wnd id : 378462272
+[  1:13:20 ]  Created window : cmd id : 797 / wnd id :378462272
+[  1:13:20 ]  Window creating : wnd id : 10202
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10202
+[  1:13:20 ]  Window creating : wnd id : 2
+[  1:13:20 ]  Created window : cmd id : 5573 / wnd id :2
+[  1:13:20 ]  Window creating : wnd id : 2
+[  1:13:20 ]  Created window : cmd id : 5575 / wnd id :2
+[  1:13:20 ]  Window creating : wnd id : 2
+[  1:13:20 ]  Created window : cmd id : 5574 / wnd id :2
+[  1:13:20 ]  Window creating : wnd id : 2
+[  1:13:20 ]  Created window : cmd id : 5579 / wnd id :2
+[  1:13:20 ]  Window creating : wnd id : 2
+[  1:13:20 ]  Created window : cmd id : 5831 / wnd id :2
+[  1:13:20 ]  Window creating : wnd id : 377942080
+[  1:13:20 ]  Created window : cmd id : 5830 / wnd id :377942080
+[  1:13:20 ]  Window creating : wnd id : 10026
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10026
+[  1:13:20 ]  Window creating : wnd id : 377942080
+[  1:13:20 ]  Created window : cmd id : 1103 / wnd id :377942080
+[  1:13:20 ]  Window creating : wnd id : 377942080
+[  1:13:20 ]  Created window : cmd id : 1112 / wnd id :377942080
+[  1:13:20 ]  Window creating : wnd id : 377942080
+[  1:13:20 ]  Created window : cmd id : 1104 / wnd id :377942080
+[  1:13:20 ]  Window creating : wnd id : 10200
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10200
+[  1:13:20 ]  Window creating : wnd id : 377942080
+[  1:13:20 ]  Created window : cmd id : 5543 / wnd id :377942080
+[  1:13:20 ]  Window creating : wnd id : 0
+[  1:13:20 ]  Created window : cmd id : 5525 / wnd id :0
+[  1:13:20 ]  Window creating : wnd id : 27
+[  1:13:20 ]  Created window : cmd id : 5505 / wnd id :27
+[  1:13:20 ]  Window creating : wnd id : 200
+[  1:13:20 ]  Created window : cmd id : 5546 / wnd id :200
+[  1:13:20 ]  Window creating : wnd id : 223175040
+[  1:13:20 ]  Created window : cmd id : 5591 / wnd id :223175040
+[  1:13:20 ]  Window creating : wnd id : 10039
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10039
+[  1:13:20 ]  Window creating : wnd id : 39256672
+[  1:13:20 ]  Created window : cmd id : 1708 / wnd id :39256672
+[  1:13:20 ]  Window creating : wnd id : 10079
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10079
+[  1:13:20 ]  Window creating : wnd id : 10018
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10018
+[  1:13:20 ]  Window creating : wnd id : 10019
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10019
+[  1:13:20 ]  Window creating : wnd id : 10020
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10020
+[  1:13:20 ]  Window creating : wnd id : 10021
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10021
+[  1:13:20 ]  Window creating : wnd id : 10022
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10022
+[  1:13:20 ]  Window creating : wnd id : 10023
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10023
+[  1:13:20 ]  Window creating : wnd id : 10008
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10008
+[  1:13:20 ]  Window creating : wnd id : 2049
+[  1:13:20 ]  Created window : cmd id : 910 / wnd id :2049
+[  1:13:20 ]  Window creating : wnd id : 10009
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10009
+[  1:13:20 ]  Window creating : wnd id : 147620922
+[  1:13:20 ]  Created window : cmd id : 946 / wnd id :147620922
+[  1:13:20 ]  Window creating : wnd id : 11
+[  1:13:20 ]  Created window : cmd id : 947 / wnd id :11
+[  1:13:20 ]  Window creating : wnd id : 10009
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10009
+[  1:13:20 ]  Window creating : wnd id : 10009
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10009
+[  1:13:20 ]  Window creating : wnd id : 10009
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10009
+[  1:13:20 ]  Window creating : wnd id : 10009
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10009
+[  1:13:20 ]  Window creating : wnd id : 10009
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10009
+[  1:13:20 ]  Window creating : wnd id : 10009
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10009
+[  1:13:20 ]  Window creating : wnd id : 10009
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10009
+[  1:13:20 ]  Window creating : wnd id : 10009
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10009
+[  1:13:20 ]  Window creating : wnd id : 10077
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10077
+[  1:13:20 ]  Window creating : wnd id : 10007
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10007
+[  1:13:20 ]  Window creating : wnd id : 820
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :820
+[  1:13:20 ]  Window creating : wnd id : 860
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :860
+[  1:13:20 ]  Window creating : wnd id : 840
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :840
+[  1:13:20 ]  Window creating : wnd id : 850
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :850
+[  1:13:20 ]  Window creating : wnd id : 10025
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10025
+[  1:13:20 ]  Window creating : wnd id : 0
+[  1:13:20 ]  Created window : cmd id : 1015 / wnd id :0
+[  1:13:20 ]  Window creating : wnd id : 0
+[  1:13:20 ]  Created window : cmd id : 1001 / wnd id :0
+[  1:13:20 ]  Window creating : wnd id : 0
+[  1:13:20 ]  Created window : cmd id : 1016 / wnd id :0
+[  1:13:20 ]  Window creating : wnd id : 0
+[  1:13:20 ]  Created window : cmd id : 1023 / wnd id :0
+[  1:13:20 ]  Window creating : wnd id : 10054
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10054
+[  1:13:20 ]  Window creating : wnd id : 10055
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10055
+[  1:13:20 ]  Window creating : wnd id : 10024
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10024
+[  1:13:20 ]  Window creating : wnd id : 10201
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10201
+[  1:13:20 ]  Window creating : wnd id : 10034
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10034
+[  1:13:20 ]  Window creating : wnd id : 10036
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10036
+[  1:13:20 ]  Window creating : wnd id : 10038
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10038
+[  1:13:20 ]  Window creating : wnd id : 10060
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10060
+[  1:13:20 ]  Window creating : wnd id : 10061
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10061
+[  1:13:20 ]  Window creating : wnd id : -167182848
+[  1:13:20 ]  Created window : cmd id : 3908 / wnd id :-167182848
+[  1:13:20 ]  Window creating : wnd id : 10042
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10042
+[  1:13:20 ]  Window creating : wnd id : 10043
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10043
+[  1:13:20 ]  Window creating : wnd id : 10052
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10052
+[  1:13:20 ]  Window creating : wnd id : 10053
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10053
+[  1:13:20 ]  Window creating : wnd id : 10056
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10056
+[  1:13:20 ]  Window creating : wnd id : 59311408
+[  1:13:20 ]  Created window : cmd id : 3505 / wnd id :59311408
+[  1:13:20 ]  Window creating : wnd id : 10057
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10057
+[  1:13:20 ]  Window creating : wnd id : 10065
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10065
+[  1:13:20 ]  Window creating : wnd id : 10066
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10066
+[  1:13:20 ]  Window creating : wnd id : 10067
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10067
+[  1:13:20 ]  Window creating : wnd id : 10204
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10204
+[  1:13:20 ]  Window creating : wnd id : 10064
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10064
+[  1:13:20 ]  Window creating : wnd id : 10068
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10068
+[  1:13:20 ]  Window creating : wnd id : 10070
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10070
+[  1:13:20 ]  Window creating : wnd id : 14
+[  1:13:20 ]  Created window : cmd id : 4504 / wnd id :14
+[  1:13:20 ]  Window creating : wnd id : 14
+[  1:13:20 ]  Created window : cmd id : 4506 / wnd id :14
+[  1:13:20 ]  Window creating : wnd id : 14
+[  1:13:20 ]  Created window : cmd id : 4505 / wnd id :14
+[  1:13:20 ]  Window creating : wnd id : 14
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :14
+[  1:13:20 ]  Window creating : wnd id : 10073
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10073
+[  1:13:20 ]  Window creating : wnd id : 2002589132
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :2002589132
+[  1:13:20 ]  Window creating : wnd id : 10211
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10211
+[  1:13:20 ]  Window creating : wnd id : 10078
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10078
+[  1:13:20 ]  Window creating : wnd id : 10078
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10078
+[  1:13:20 ]  Window creating : wnd id : 10081
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10081
+[  1:13:20 ]  Window creating : wnd id : 10082
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10082
+[  1:13:20 ]  Window creating : wnd id : 10083
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10083
+[  1:13:20 ]  Window creating : wnd id : 10084
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10084
+[  1:13:20 ]  Window creating : wnd id : 59966748
+[  1:13:20 ]  Created window : cmd id : 5130 / wnd id :59966748
+[  1:13:20 ]  Window creating : wnd id : 10087
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10087
+[  1:13:20 ]  Window creating : wnd id : 0
+[  1:13:20 ]  Created window : cmd id : 5220 / wnd id :0
+[  1:13:20 ]  Window creating : wnd id : 10085
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10085
+[  1:13:20 ]  Window creating : wnd id : 10086
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10086
+[  1:13:20 ]  Window creating : wnd id : 10207
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10207
+[  1:13:20 ]  Window creating : wnd id : 10088
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10088
+[  1:13:20 ]  Window creating : wnd id : 10094
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10094
+[  1:13:20 ]  Window creating : wnd id : 199
+[  1:13:20 ]  Created window : cmd id : 5371 / wnd id :199
+[  1:13:20 ]  Window creating : wnd id : 10090
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10090
+[  1:13:20 ]  Window creating : wnd id : 10095
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10095
+[  1:13:20 ]  Window creating : wnd id : 2953216
+[  1:13:20 ]  Created window : cmd id : 5382 / wnd id :2953216
+[  1:13:20 ]  Window creating : wnd id : 10089
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10089
+[  1:13:20 ]  Window creating : wnd id : 10096
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10096
+[  1:13:20 ]  Window creating : wnd id : 10206
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10206
+[  1:13:20 ]  Window creating : wnd id : 10209
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10209
+[  1:13:20 ]  Window creating : wnd id : 557
+[  1:13:20 ]  Created window : cmd id : 5706 / wnd id :557
+[  1:13:20 ]  Window creating : wnd id : 10210
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10210
+[  1:13:20 ]  Window creating : wnd id : 126455080
+[  1:13:20 ]  Created window : cmd id : 5815 / wnd id :126455080
+[  1:13:20 ]  Window creating : wnd id : 27
+[  1:13:20 ]  Created window : cmd id : 5816 / wnd id :27
+[  1:13:20 ]  Window creating : wnd id : 20
+[  1:13:20 ]  Created window : cmd id : 5817 / wnd id :20
+[  1:13:20 ]  Window creating : wnd id : 8
+[  1:13:20 ]  Created window : cmd id : 5818 / wnd id :8
+[  1:13:20 ]  Window creating : wnd id : 5
+[  1:13:20 ]  Created window : cmd id : 5819 / wnd id :5
+[  1:13:20 ]  Window creating : wnd id : 11
+[  1:13:20 ]  Created window : cmd id : 5820 / wnd id :11
+[  1:13:20 ]  Window creating : wnd id : 10212
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10212
+[  1:13:20 ]  Window creating : wnd id : 10213
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10213
+[  1:13:20 ]  Window creating : wnd id : 10214
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10214
+[  1:13:20 ]  Window creating : wnd id : 10216
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10216
+[  1:13:20 ]  Window creating : wnd id : 10215
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10215
+[  1:13:20 ]  Window creating : wnd id : 10223
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10223
+[  1:13:20 ]  Window creating : wnd id : 38476508
+[  1:13:20 ]  Created window : cmd id : 6102 / wnd id :38476508
+[  1:13:20 ]  Window creating : wnd id : 10217
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10217
+[  1:13:20 ]  Window creating : wnd id : 64554218
+[  1:13:20 ]  Created window : cmd id : 6000 / wnd id :64554218
+[  1:13:20 ]  Window creating : wnd id : 10218
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10218
+[  1:13:20 ]  Window creating : wnd id : 62981351
+[  1:13:20 ]  Created window : cmd id : 6000 / wnd id :62981351
+[  1:13:20 ]  Window creating : wnd id : 10235
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10235
+[  1:13:20 ]  Window creating : wnd id : 64160997
+[  1:13:20 ]  Created window : cmd id : 6000 / wnd id :64160997
+[  1:13:20 ]  Window creating : wnd id : 10219
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10219
+[  1:13:20 ]  Window creating : wnd id : 10220
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10220
+[  1:13:20 ]  Window creating : wnd id : 2002855142
+[  1:13:20 ]  Created window : cmd id : 6055 / wnd id :2002855142
+[  1:13:20 ]  Window creating : wnd id : 10221
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10221
+[  1:13:20 ]  Window creating : wnd id : 1
+[  1:13:20 ]  Created window : cmd id : 6062 / wnd id :1
+[  1:13:20 ]  Window creating : wnd id : 10294
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10294
+[  1:13:20 ]  Window creating : wnd id : 32
+[  1:13:20 ]  Created window : cmd id : 7550 / wnd id :32
+[  1:13:20 ]  Window creating : wnd id : 10410
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10410
+[  1:13:20 ]  Window creating : wnd id : 2002521826
+[  1:13:20 ]  Created window : cmd id : 8880 / wnd id :2002521826
+[  1:13:20 ]  Window creating : wnd id : 10222
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10222
+[  1:13:20 ]  Window creating : wnd id : 10224
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10224
+[  1:13:20 ]  Window creating : wnd id : 10239
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10239
+[  1:13:20 ]  Window creating : wnd id : 10285
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10285
+[  1:13:20 ]  Window creating : wnd id : 10225
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10225
+[  1:13:20 ]  Window creating : wnd id : 10226
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10226
+[  1:13:20 ]  Window creating : wnd id : 10228
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10228
+[  1:13:20 ]  Window creating : wnd id : 10229
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10229
+[  1:13:20 ]  Window creating : wnd id : 10297
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10297
+[  1:13:20 ]  Window creating : wnd id : 10298
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10298
+[  1:13:20 ]  Window creating : wnd id : 10227
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10227
+[  1:13:20 ]  Window creating : wnd id : 10236
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10236
+[  1:13:20 ]  Window creating : wnd id : 38470088
+[  1:13:20 ]  Created window : cmd id : 6251 / wnd id :38470088
+[  1:13:20 ]  Window creating : wnd id : 10237
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10237
+[  1:13:20 ]  Window creating : wnd id : 10238
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10238
+[  1:13:20 ]  Window creating : wnd id : -1191156001
+[  1:13:20 ]  Created window : cmd id : 6275 / wnd id :-1191156001
+[  1:13:20 ]  Window creating : wnd id : 10240
+[  1:13:20 ]  Created window : cmd id : 0 / wnd id :10240
+[  1:13:20 ]  Window creating : wnd id : 38470088
+[  1:13:20 ]  Created window : cmd id : 6401 / wnd id :38470088
+[  1:13:21 ]  Window creating : wnd id : 10241
+[  1:13:21 ]  Created window : cmd id : 0 / wnd id :10241
+[  1:13:21 ]  Window creating : wnd id : -587193346
+[  1:13:21 ]  Created window : cmd id : 6452 / wnd id :-587193346
+[  1:13:21 ]  Window creating : wnd id : -587193346
+[  1:13:21 ]  Created window : cmd id : 6453 / wnd id :-587193346
+[  1:13:21 ]  Window creating : wnd id : 10246
+[  1:13:21 ]  Created window : cmd id : 0 / wnd id :10246
+[  1:13:21 ]  Window creating : wnd id : 10247
+[  1:13:21 ]  Created window : cmd id : 0 / wnd id :10247
+[  1:13:21 ]  Window creating : wnd id : 42
+[  1:13:21 ]  Created window : cmd id : 6755 / wnd id :42
+[  1:13:21 ]  Window creating : wnd id : 42
+[  1:13:21 ]  Created window : cmd id : 6756 / wnd id :42
+[  1:13:21 ]  Window creating : wnd id : 42
+[  1:13:21 ]  Created window : cmd id : 6757 / wnd id :42
+[  1:13:21 ]  Window creating : wnd id : 10252
+[  1:13:21 ]  Created window : cmd id : 0 / wnd id :10252
+[  1:13:21 ]  Window creating : wnd id : 10253
+[  1:13:21 ]  Created window : cmd id : 0 / wnd id :10253
+[  1:13:21 ]  Window creating : wnd id : 10249
+[  1:13:21 ]  Created window : cmd id : 0 / wnd id :10249
+[  1:13:21 ]  Window creating : wnd id : 10279
+[  1:13:21 ]  Created window : cmd id : 0 / wnd id :10279
+[  1:13:21 ]  Window creating : wnd id : 10250
+[  1:13:21 ]  Created window : cmd id : 0 / wnd id :10250
+[  1:13:21 ]  Window creating : wnd id : 10256
+[  1:13:21 ]  Created window : cmd id : 0 / wnd id :10256
+[  1:13:21 ]  Window creating : wnd id : 0
+[  1:13:21 ]  Created window : cmd id : 7130 / wnd id :0
+[  1:13:21 ]  Window creating : wnd id : 10278
+[  1:13:21 ]  Created window : cmd id : 0 / wnd id :10278
+[  1:13:21 ]  Window creating : wnd id : 10251
+[  1:13:21 ]  Created window : cmd id : 0 / wnd id :10251
+[  1:13:21 ]  Window creating : wnd id : 10277
+[  1:13:21 ]  Created window : cmd id : 0 / wnd id :10277
+[  1:13:21 ]  Window creating : wnd id : 10283
+[  1:13:21 ]  Created window : cmd id : 0 / wnd id :10283
+[  1:13:21 ]  Window creating : wnd id : 1993629007
+[  1:13:21 ]  Created window : cmd id : 7304 / wnd id :1993629007
+[  1:13:21 ]  Window creating : wnd id : 10280
+[  1:13:21 ]  Created window : cmd id : 0 / wnd id :10280
+[  1:13:21 ]  Window creating : wnd id : 0
+[  1:13:21 ]  Created window : cmd id : 7234 / wnd id :0
+[  1:13:21 ]  Window creating : wnd id : 10284
+[  1:13:21 ]  Created window : cmd id : 0 / wnd id :10284
+[  1:13:21 ]  Window creating : wnd id : 147620550
+[  1:13:21 ]  Created window : cmd id : 7355 / wnd id :147620550
+[  1:13:21 ]  Window creating : wnd id : 10286
+[  1:13:21 ]  Created window : cmd id : 0 / wnd id :10286
+[  1:13:21 ]  Window creating : wnd id : 10288
+[  1:13:21 ]  Created window : cmd id : 0 / wnd id :10288
+[  1:13:21 ]  Window creating : wnd id : 10287
+[  1:13:21 ]  Created window : cmd id : 0 / wnd id :10287
+[  1:13:21 ]  Window creating : wnd id : 10289
+[  1:13:21 ]  Created window : cmd id : 0 / wnd id :10289
+[  1:13:21 ]  Window creating : wnd id : 10290
+[  1:13:21 ]  Created window : cmd id : 0 / wnd id :10290
+[  1:13:21 ]  Window creating : wnd id : 10291
+[  1:13:21 ]  Created window : cmd id : 0 / wnd id :10291
+[  1:13:21 ]  Window creating : wnd id : 10281
+[  1:13:21 ]  Created window : cmd id : 0 / wnd id :10281
+[  1:13:21 ]  Window creating : wnd id : 10295
+[  1:13:21 ]  Created window : cmd id : 0 / wnd id :10295
+[  1:13:21 ]  Window creating : wnd id : 10296
+[  1:13:21 ]  Created window : cmd id : 0 / wnd id :10296
+[  1:13:21 ]  Window creating : wnd id : 0
+[  1:13:21 ]  Created window : cmd id : 7604 / wnd id :0
+[  1:13:21 ]  Window creating : wnd id : 10315
+[  1:13:21 ]  Created window : cmd id : 0 / wnd id :10315
+[  1:13:21 ]  Window creating : wnd id : 10403
+[  1:13:21 ]  Created window : cmd id : 0 / wnd id :10403
+[  1:13:21 ]  Window creating : wnd id : 10404
+[  1:13:21 ]  Created window : cmd id : 0 / wnd id :10404
+[  1:13:21 ]  Window creating : wnd id : 10405
+[  1:13:21 ]  Created window : cmd id : 0 / wnd id :10405
+[  1:13:21 ]  Window creating : wnd id : 10299
+[  1:13:21 ]  Created window : cmd id : 0 / wnd id :10299
+[  1:13:21 ]  Window creating : wnd id : 10300
+[  1:13:21 ]  Created window : cmd id : 0 / wnd id :10300
+[  1:13:21 ]  Window creating : wnd id : 10307
+[  1:13:21 ]  Created window : cmd id : 0 / wnd id :10307
+[  1:13:21 ]  Window creating : wnd id : 10308
+[  1:13:21 ]  Created window : cmd id : 0 / wnd id :10308
+[  1:13:21 ]  Window creating : wnd id : 10316
+[  1:13:21 ]  Created window : cmd id : 0 / wnd id :10316
+[  1:13:21 ]  Window creating : wnd id : 10317
+[  1:13:21 ]  Created window : cmd id : 0 / wnd id :10317
+[  1:13:21 ]  Window creating : wnd id : 10320
+[  1:13:21 ]  Created window : cmd id : 0 / wnd id :10320
+[  1:13:21 ]  Window creating : wnd id : 10234
+[  1:13:21 ]  Created window : cmd id : 0 / wnd id :10234
+[  1:13:23 ]  ERROR : Overflowed animation key stack [2874][[Câìp Ðôò 4] - Thông Khô Hãìc KyÌ Lân,mob_raidboss_01_a_die_02.XA] [5/4]
+[  1:13:23 ]  ERROR : Overflowed animation key stack [2874][[Câìp Ðôò 4] - Thông Khô Hãìc KyÌ Lân,mob_raidboss_01_a_sk2.XA] [6/4]
+[  1:13:23 ]  ERROR : Overflowed animation key stack [2874][[Câìp Ðôò 4] - Thông Khô Hãìc KyÌ Lân,mob_raidboss_01_a_sk1.XA] [7/4]
+[  1:13:23 ]  ERROR : Overflowed animation key stack [2874][[Câìp Ðôò 4] - Thông Khô Hãìc KyÌ Lân,mob_raidboss_01_a_sk2.XA] [8/4]
+[  1:13:26 ]  ========================================================================
+[  1:13:26 ]  Change process : Login server
+[  1:13:26 ]  ========================================================================
+[  1:13:26 ]  Window creating : wnd id : 203395
+[  1:13:26 ]  Created window : cmd id : 0 / wnd id :203395
+[  1:13:26 ]  Window creating : wnd id : 260794
+[  1:13:26 ]  Created window : cmd id : 0 / wnd id :260794
+[  1:13:26 ]  Window creating : wnd id : 73
+[  1:13:26 ]  Created window : cmd id : 206101 / wnd id :73
+[  1:13:26 ]  Window creating : wnd id : 73
+[  1:13:26 ]  Created window : cmd id : 224107 / wnd id :73
+[  1:13:26 ]  Window creating : wnd id : 73
+[  1:13:26 ]  Created window : cmd id : 224108 / wnd id :73
+[  1:13:26 ]  Window creating : wnd id : 260803
+[  1:13:26 ]  Created window : cmd id : 0 / wnd id :260803
+[  1:13:26 ]  Window creating : wnd id : 73
+[  1:13:26 ]  Created window : cmd id : 224003 / wnd id :73
+[  1:13:26 ]  Window creating : wnd id : 73
+[  1:13:26 ]  Created window : cmd id : 224001 / wnd id :73
+[  1:13:26 ]  Window creating : wnd id : 230029080
+[  1:13:26 ]  Created window : cmd id : 224002 / wnd id :230029080
+[  1:13:26 ]  Window creating : wnd id : 260804
+[  1:13:26 ]  Created window : cmd id : 0 / wnd id :260804
+[  1:13:26 ]  Window creating : wnd id : 73
+[  1:13:26 ]  Created window : cmd id : 224103 / wnd id :73
+[  1:13:26 ]  Window creating : wnd id : 73
+[  1:13:26 ]  Created window : cmd id : 224101 / wnd id :73
+[  1:13:26 ]  Window creating : wnd id : 73
+[  1:13:26 ]  Created window : cmd id : 224102 / wnd id :73
+[  1:13:26 ]  Window creating : wnd id : 260805
+[  1:13:26 ]  Created window : cmd id : 0 / wnd id :260805
+[  1:13:26 ]  Window creating : wnd id : 73
+[  1:13:26 ]  Created window : cmd id : 224104 / wnd id :73
+[  1:13:26 ]  Window creating : wnd id : 260796
+[  1:13:26 ]  Created window : cmd id : 0 / wnd id :260796
+[  1:13:26 ]  Window creating : wnd id : 260797
+[  1:13:26 ]  Created window : cmd id : 0 / wnd id :260797
+[  1:13:26 ]  Window creating : wnd id : 260802
+[  1:13:26 ]  Created window : cmd id : 0 / wnd id :260802
+[  1:13:26 ]  Window creating : wnd id : 260808
+[  1:13:26 ]  Created window : cmd id : 0 / wnd id :260808
+[  1:13:26 ]  Window creating : wnd id : 203324
+[  1:13:26 ]  Created window : cmd id : 0 / wnd id :203324
+[  1:13:26 ]  Window creating : wnd id : 203322
+[  1:13:26 ]  Created window : cmd id : 0 / wnd id :203322
+[  1:13:26 ]  Window creating : wnd id : 203323
+[  1:13:26 ]  Created window : cmd id : 0 / wnd id :203323
+[  1:13:26 ]  Window creating : wnd id : 203325
+[  1:13:26 ]  Created window : cmd id : 0 / wnd id :203325
+[  1:13:26 ]  Window creating : wnd id : 201445
+[  1:13:26 ]  Created window : cmd id : 0 / wnd id :201445
+[  1:13:26 ]  Window creating : wnd id : 201447
+[  1:13:26 ]  Created window : cmd id : 0 / wnd id :201447
+[  1:13:26 ]  Window creating : wnd id : 203312
+[  1:13:26 ]  Created window : cmd id : 0 / wnd id :203312
+[  1:13:26 ]  Window creating : wnd id : 203313
+[  1:13:26 ]  Created window : cmd id : 0 / wnd id :203313
+[  1:13:26 ]  Window creating : wnd id : 203314
+[  1:13:26 ]  Created window : cmd id : 0 / wnd id :203314
+[  1:13:26 ]  Window creating : wnd id : 203315
+[  1:13:26 ]  Created window : cmd id : 0 / wnd id :203315
+[  1:13:26 ]  Window creating : wnd id : 203316
+[  1:13:26 ]  Created window : cmd id : 0 / wnd id :203316
+[  1:13:26 ]  Window creating : wnd id : 203317
+[  1:13:26 ]  Created window : cmd id : 0 / wnd id :203317
+[  1:13:26 ]  Window creating : wnd id : 203318
+[  1:13:26 ]  Created window : cmd id : 0 / wnd id :203318
+[  1:13:26 ]  Window creating : wnd id : 203341
+[  1:13:26 ]  Created window : cmd id : 0 / wnd id :203341
+[  1:13:26 ]  Window creating : wnd id : 203342
+[  1:13:26 ]  Created window : cmd id : 0 / wnd id :203342
+[  1:13:26 ]  Window creating : wnd id : 203345
+[  1:13:26 ]  Created window : cmd id : 0 / wnd id :203345
+[  1:13:26 ]  Window creating : wnd id : 231779816
+[  1:13:26 ]  Created window : cmd id : 224106 / wnd id :231779816
+[  1:13:26 ]  Window creating : wnd id : 203346
+[  1:13:26 ]  Created window : cmd id : 0 / wnd id :203346
+[  1:13:26 ]  Window creating : wnd id : 203326
+[  1:13:26 ]  Created window : cmd id : 0 / wnd id :203326
+[  1:13:26 ]  Window creating : wnd id : 203328
+[  1:13:26 ]  Created window : cmd id : 0 / wnd id :203328
+[  1:13:26 ]  Window creating : wnd id : 203349
+[  1:13:26 ]  Created window : cmd id : 0 / wnd id :203349
+[  1:13:26 ]  Window creating : wnd id : 203327
+[  1:13:26 ]  Created window : cmd id : 0 / wnd id :203327
+[  1:13:26 ]  Window creating : wnd id : 203340
+[  1:13:26 ]  Created window : cmd id : 0 / wnd id :203340
+[  1:13:26 ]  Window creating : wnd id : 260793
+[  1:13:26 ]  Created window : cmd id : 0 / wnd id :260793
+[  1:13:26 ]  RestoreDeviceObjects : shader version [ VS : 3.0 / PS : 3.0 ]
+[  1:13:26 ]  RestoreDeviceObjects : [ HCR ] Use vertex shader animation
+[  1:13:26 ]  Disconnected.
+[  1:13:26 ]  Messenger socket released.
+[  1:13:26 ]  Initialize messanger packet buffer
+[  1:13:26 ]  Window creating : wnd id : 10046
+[  1:13:26 ]  Created window : cmd id : 0 / wnd id :10046
+[  1:13:26 ]  Window creating : wnd id : 10203
+[  1:13:26 ]  Created window : cmd id : 0 / wnd id :10203
+[  1:13:26 ]  Window creating : wnd id : 10232
+[  1:13:26 ]  Created window : cmd id : 0 / wnd id :10232
+[  1:13:26 ]  WSAStartup... 
+[  1:13:26 ]  Request server list 
+[  1:13:26 ]  Create socket object... 
+[  1:13:26 ]  Created socket object... 
+[  1:13:26 ]  Connect to live server
+[  1:13:26 ]  Connect version server... 
+[  1:13:26 ]  Connected version server... 
+[  1:13:26 ]  Recieve version... 
+[  1:13:26 ]  Recieved version... 
+[  1:13:26 ]  Close socket... 
+[  1:13:26 ]  WSA Cleanup... 
+[  1:13:26 ]  MaxServerCount:1
+[  1:13:29 ]  Connect to live server
+[  1:13:29 ]  InitializeUDPSocket()
+[  1:13:29 ]  OnUserMessage_UDPSocket()
+[  1:13:29 ]  OnUserMessage_UDPSocket()
+[  1:13:29 ]  LS Send packet start [1]
+[  1:13:29 ]  Login : send login packet
+[  1:13:29 ]  Å¬¶óÀÌ¾ðÆ® ¹öÀü 393338
+[  1:13:29 ]  _XUDPSendPacket_Encapsulate()
+[  1:13:29 ]   
+[  1:13:29 ]  OnUserMessage_UDPSocket()
+[  1:13:29 ]  Disconnected.
+[  1:13:29 ]  Login success.
+[  1:13:29 ]  OnUserMessage_UDPSocket()
+[  1:13:29 ]  ========================================================================
+[  1:13:29 ]  Change process : Select character
+[  1:13:29 ]  ========================================================================
+[  1:13:29 ]  Window creating : wnd id : 10047
+[  1:13:29 ]  Created window : cmd id : 0 / wnd id :10047
+[  1:13:29 ]  Window creating : wnd id : 10233
+[  1:13:29 ]  Created window : cmd id : 0 / wnd id :10233
+[  1:13:29 ]  Window creating : wnd id : 10232
+[  1:13:29 ]  Created window : cmd id : 0 / wnd id :10232
+[  1:13:34 ]  ========================================================================
+[  1:13:34 ]  Change process : Loading data
+[  1:13:34 ]  ========================================================================
+[  1:13:43 ]  ========================================================================
+[  1:13:43 ]  Change process : EOD Main game
+[  1:13:43 ]  ========================================================================
+[  1:13:43 ]  RestoreDeviceObjects : shader version [ VS : 3.0 / PS : 3.0 ]
+[  1:13:43 ]  RestoreDeviceObjects : [ HCR ] Use vertex shader animation
+[  1:13:43 ]  Initialize messanger socket
+[  1:13:43 ]  Messenger socket released.
+[  1:13:43 ]  Initialize messanger packet buffer
+[  1:13:43 ]  Create messanger socket
+[  1:13:43 ]  AsyncSelect messanger socket
+[  1:13:43 ]  Connect messanger server
+[  1:13:43 ]  Connected messanger server
+[  1:13:43 ]  Start game...[Region : 17]
+[  1:13:43 ]  Window creating : wnd id : 30000
+[  1:13:43 ]  Created window : cmd id : 0 / wnd id :30000
+[  1:13:44 ]  TW MND log, Moonpa 4, classinfo 1, classgrade 2 
+[  1:13:44 ]  TW MND log, Moonpa 4, classinfo 1, classgrade 2 
+[  1:13:44 ]  Window creating : wnd id : 60051
+[  1:13:44 ]  Created window : cmd id : 0 / wnd id :60051
+[  1:13:44 ]  Window creating : wnd id : 1085276160
+[  1:13:44 ]  Created window : cmd id : -359464957 / wnd id :1085276160
+[  1:13:44 ]  <<<<<<<<<<<<<<<<<<<<<<<<<<<      Messenger Memberinfo Receive     >>>>>>>>>>>>>>>>>>>>>>>>>
+[  1:14: 3 ]  GGauth Packet (4101 : 5) : 0300ffffffc05e7affffffc12e39
+[  1:18: 3 ]  GGauth Packet (4101 : 5) : 0300241bfffffff85a0030
+[  1:22: 3 ]  GGauth Packet (4101 : 5) : 03006c49ffffff84ffffffc15effffffc5
+[  1:26: 3 ]  GGauth Packet (4101 : 5) : 0300241bfffffff85a0030
+[  1:30: 3 ]  GGauth Packet (4101 : 5) : 3331320000000000
+[  1:34: 3 ]  GGauth Packet (4101 : 5) : 5670ffffffc8ffffffc167ffffff9f4effffffc2
+[  1:38: 3 ]  GGauth Packet (4101 : 5) : 5670ffffffc8ffffffc167ffffff9f4effffffc2
+[  1:42: 3 ]  GGauth Packet (4101 : 5) : 5670ffffffc8ffffffc167ffffff9f4effffffc2
+[  1:46: 3 ]  GGauth Packet (4101 : 5) : 5670ffffffc8ffffffc167ffffff9f4effffffc2
+[  1:50: 3 ]  GGauth Packet (4101 : 5) : 5670ffffffc8ffffffc167ffffff9f4effffffc2
+[  1:50:53 ]  Shutdown from main loop.
+[  1:50:53 ]  End of main process
+[  1:50:53 ]  Release game object
+[  1:50:53 ]  End of main process
+[  1:50:53 ]  Disconnected. [GS,_ECode:0].
+[  1:50:53 ]  Messenger socket released.
+[  1:50:53 ]  Initialize messanger packet buffer

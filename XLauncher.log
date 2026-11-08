@@ -1,0 +1,64 @@
+=============================================================================
+Startup log...
+2026-11-9 / 1:12:45 
+=============================================================================
+Launcher section 2...
+Start launcher sub module
+WSAStartup...
+Trace start...
+Create menu
+Create windows object
+FMOD : Check FMOD version
+FMOD : Set output device
+FMOD : Enumelate sound driver
+Initialize background Flash
+Package Message : Package opened [XLauncher.xp]
+Initialize background Image
+Package Message : Package opened [XLauncher.xp]
+Initialize web browser control
+read UI string 1
+Move notice browser window
+connect to web : phase 1
+Before bavigate notice page
+Move update notice browser window
+Set browser static
+Link web page : Phase 1
+Link web page : Phase 2
+Resize  : log list control
+Initialize  : log list control
+Change color :  log list control
+Change style : log list control
+Hide window : log list control
+Initialize status text
+Initialize title control
+Initialize gui buttons
+Initialize complete
+Begin patch works.
+Check exe version.
+Get server info.
+Start version check.
+Start : cvs.
+Create socket object...
+Created socket object...
+Connect to version server...
+Connected to version server...
+Recieve version...
+Recieved version...
+Close socket...
+Server version : 15
+Start : cvs.
+Create socket object...
+Created socket object...
+Connect to version server...
+Connected to version server...
+Recieve version...
+Recieved version...
+Close socket...
+Server version : 15
+End version check.
+Message: Start 9Dragons.WSA Cleanup...
+End of launcher sub module
+=============================================================================
+End of log.
+2026-11-9 / 1:12:51 
+==================================================================Code by _X=
